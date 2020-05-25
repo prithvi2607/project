@@ -1,0 +1,47 @@
+.container{
+    background: url("/pics/bg.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    flex-direction: column;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-bottom{
+    display:flex;
+    flex-direction: column;
+    background:url("./pics/black1.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:4px;
+}
+.box{
+    margin:auto;
+}
